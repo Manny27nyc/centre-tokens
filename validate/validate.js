@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 // Address of the FiatToken Implementation
 const fiatTokenAddress = "0x0882477e7895bdc5cea7cb1552ed914ab157fe56";
 

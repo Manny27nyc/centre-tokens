@@ -1,0 +1,33 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
+./migrations/2_deploy_v1.js
+./migrations/1_initial_migration.js
+./migrations/3_deploy_v2.js
+./migrations/4_deploy_v2_upgrader.js
+./validate/contractDiff.js
+./validate/validate.js
+./test/v1/positive.test.js
+./test/v1/legacy.test.js
+./test/v1/negative.test.js
+./test/v1/abiHacking.test.js
+./test/v1/TokenTestUtils.js
+./test/v1/Pausable.test.js
+./test/v1/misc.test.js
+./test/v1/events.test.js
+./test/v1/extendedPositive.test.js
+./test/v1/proxyNegative.test.js
+./test/v1/proxyPositive.test.js
+./test/v1/helpers/tokenTest.js
+./test/v1/helpers/wrapTests.js
+./test/v1/helpers/abi.js
+./verification/verification_reporter.js
+./verification/GoogleSheets/index.js
+./verification/README.verification.txt
+./.solcover.js
+./.eslintrc.js
+./valid_targets.txt
+./truffle-config.js
