@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ecSign, expectRevert } from "../helpers";
 import { ACCOUNTS_AND_KEYS, ZERO_BYTES32 } from "../helpers/constants";
 import { EcRecoverTestInstance } from "../../@types/generated/EcRecoverTest";

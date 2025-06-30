@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import crypto from "crypto";
 import { Eip712TestInstance } from "../../@types/generated";
 import { wordlist } from "ethereum-cryptography/bip39/wordlists/english";

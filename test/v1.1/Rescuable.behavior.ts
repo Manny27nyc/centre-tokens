@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { RescuableInstance } from "../../@types/generated/Rescuable";
 import { expectRevert } from "../helpers";
 import { DummyErc20Instance } from "../../@types/generated";

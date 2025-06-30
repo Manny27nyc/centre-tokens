@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const ZERO_ADDRESS = "0x0000000000000000000000000000000000000000";
 
 export const ZERO_BYTES32 =

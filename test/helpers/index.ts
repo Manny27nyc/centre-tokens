@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ecsign } from "ethereumjs-util";
 import { assert } from "chai";
 

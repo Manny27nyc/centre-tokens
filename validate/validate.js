@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Address of the FiatToken Implementation
 const fiatTokenAddress = "0x0882477e7895bdc5cea7cb1552ed914ab157fe56";
 

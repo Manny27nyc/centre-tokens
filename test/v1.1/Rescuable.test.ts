@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { RescuableInstance } from "../../@types/generated/Rescuable";
 import { behavesLikeRescuable } from "./Rescuable.behavior";
 import { ZERO_ADDRESS } from "../helpers/constants";

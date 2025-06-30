@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 process.env.TS_NODE_FILES = "true";
 require("ts-node/register/transpile-only");
 // Fix Typescript callsite reporting

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const BN = require("bn.js");
 const wrapTests = require("./helpers/wrapTests");
 const {

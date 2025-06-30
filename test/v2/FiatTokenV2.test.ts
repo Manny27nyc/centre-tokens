@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { behavesLikeRescuable } from "../v1.1/Rescuable.behavior";
 import { FiatTokenV2Instance, RescuableInstance } from "../../@types/generated";
 import { usesOriginalStorageSlotPositions } from "../helpers/storageSlots.behavior";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FiatTokenV2Instance } from "../../../@types/generated";
 import { Signature, ecSign, strip0x } from "../../helpers";
 

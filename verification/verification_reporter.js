@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const mocha = require("mocha");
 const specReporter = mocha.reporters.Spec;
 const baseReporter = mocha.reporters.Base;

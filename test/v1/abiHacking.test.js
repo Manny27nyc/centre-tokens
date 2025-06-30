@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { Transaction } = require("ethereumjs-tx");
 const wrapTests = require("./helpers/wrapTests");
 const {

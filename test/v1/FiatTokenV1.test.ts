@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { usesOriginalStorageSlotPositions } from "../helpers/storageSlots.behavior";
 
 const FiatTokenV1 = artifacts.require("FiatTokenV1");

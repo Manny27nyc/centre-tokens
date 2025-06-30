@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import crypto from "crypto";
 import { FiatTokenV2Instance } from "../../../@types/generated";
 import { ACCOUNTS_AND_KEYS, MAX_UINT256 } from "../../helpers/constants";

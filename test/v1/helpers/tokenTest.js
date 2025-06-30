@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const util = require("util");
 const abi = require("ethereumjs-abi");
 const _ = require("lodash");
